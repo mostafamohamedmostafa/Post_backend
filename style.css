@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Cabin', sans-serif;
+
+}
+
+
+.nav-bar i{
+    margin: 1%;
+}
+.nav-bar  a{
+    margin: 1%;
+ }
+.posts-view .card{
+    margin: 5%;
+    text-align: center;
+}
